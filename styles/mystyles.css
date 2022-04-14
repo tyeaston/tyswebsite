@@ -1,0 +1,28 @@
+body {
+    background-color: aliceblue;
+}
+
+.homepics{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    margin: 0 1rem;
+    justify-content: space-evenly;}
+
+    .thevid{
+        display: flex;
+        position: relative;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    
+    .res{
+        display: flex;
+        position: relative;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    }
