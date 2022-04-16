@@ -2,7 +2,7 @@ body {
     background-color: aliceblue;
 }
 
-.homepics{
+    .homepics{
     display: flex;
     flex-direction: row;
     gap: 1rem;
@@ -25,4 +25,8 @@ body {
         flex-direction: column;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
     
+    }
+
+    .textcolor{
+        color: black;
     }
